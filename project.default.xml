@@ -1,0 +1,13 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (python_training)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="RSettings" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
